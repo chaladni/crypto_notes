@@ -74,10 +74,10 @@ Sections
 
  * title : BitcoinCash Latte Retail Experience 
  * nav menu
- * BSHLatte Video embedded : hosted on youtube
+ * BCHLatte Video embedded : hosted on youtube
  * Photo and text step by steps for :
- * Customer Section
- * Vendor Part A Section : Day to day experience
- * Vendor Part B Section : setup
+   * Customer Section
+   * Vendor Part A Section : Day to day experience
+   * Vendor Part B Section : setup
  * Sponsors, logos, links : BCF, moosh.io, wallets etc
  

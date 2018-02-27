@@ -8,7 +8,7 @@ Video walks thru :
 
  * Customer Experience : ordering and paying for food, enjoying it
  * Vendor Experience A : preparing the meal and getting payment
- * Vendor experience B : setting up
+ * Vendor experience B : setting up wallet, menu and qrcodes
  * sponsors, logos, links : BCF, moosh, other wallets
 
 ### Customer experience :

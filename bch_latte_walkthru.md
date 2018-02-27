@@ -31,7 +31,7 @@ Video walks thru :
 
 Vendor Part A : day to day vendor experience, ties in with the above customer experience
 
- * Vendor welcomes customers from above
+ * Vendor welcomes customers : same customers as above
  * seats them at table
  * sees the order come up
  * order gets marked as paid

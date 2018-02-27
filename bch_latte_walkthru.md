@@ -1,8 +1,8 @@
 
-###BCH Latte retail Experience : Walkthrough Details
+## BitcoinCash Latte Retail Experience : Video Walkthru and Website Plan
 
 
-## BCHLatte Video Storyboard
+### BCH Latte Video Storyboard
 
 Video walks thru :
 

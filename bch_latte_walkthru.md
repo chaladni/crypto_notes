@@ -67,6 +67,7 @@ Video Outro :
 ## BCHLatte Website Plan
 
 Single page website to present the video, walkthru and links.
+
 Takes a vendor from seeing the experience from the customer and business viewpoints,
 thru explanations of main points, on to links so they can quickly get set up to use BCH in their business.
 
